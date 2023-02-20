@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARJUN300399
-- 👀 I’m interested in Web3
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs and javaScript
 - 💞️ I’m looking to collaborate on frontend projects
 
