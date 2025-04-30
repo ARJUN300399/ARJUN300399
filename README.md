@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @ARJUN300399
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs and javaScript
-- 💞️ I’m looking to collaborate on frontend projects
+# 👋 Hey, I'm Arjun Singh
 
-<!---
-ARJUN300399/ARJUN300399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer | Java | Spring Boot | ReactJS | Kafka | Redis | SQL | Docker
+
+I build systems that scale and UIs that don’t break under pressure.  
+From crafting REST APIs to optimizing SQL queries — I like making things that *just work*.
+
+⚙️ Microservices fan • Code performance nerd • CI/CD believer
+
+---
+
+😮‍💨 Tired of scrolling GitHub looking for “good first issues”?  
+🎧 Take a break, breathe, and vibe here → [puff-stuff.web.app](https://puff-stuff.web.app)
